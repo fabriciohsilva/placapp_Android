@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlacApp</string>
+    <string name="clubes">Clubes</string>
+    <string name="time_visitante">Visitante</string>
+    <string name="time_da_casa">Casa</string>
+    <string name="start">Começar</string>
+    <string name="ex_corinthians">Ex.: Corinthians</string>
+    <string name="ex_palmeiras">Ex.: Palmeiras</string>
+    <string name="goal">Gol</string>
+</resources>

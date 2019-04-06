@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlacApp</string>
+    <string name="clubes">Teams</string>
+    <string name="time_visitante">Away</string>
+    <string name="time_da_casa">Home</string>
+    <string name="start">Start</string>
+    <string name="ex_corinthians">Ex.: Lakers</string>
+    <string name="ex_palmeiras">Ex.: Celtics</string>
+    <string name="goal">Goal</string>
+</resources>
